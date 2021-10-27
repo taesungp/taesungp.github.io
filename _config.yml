@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taesung Park"
 title_separator          : "-"
 name                     : &name "Taesung Park"
-description              : &description "Research Scientist at Adobe Research"
+description              : &description "Research Scientist at Adobe"
 url                      : https://taesungp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taesungp/taesungp.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taesung Park"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist at Adobe Research"
+  bio              : "Research Scientist at Adobe"
   location         : "San Francisco, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hHkuxSUAAAAJ&hl=en"
