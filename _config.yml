@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Taesung Park"
 title_separator          : "-"
 name                     : &name "Taesung Park"
-description              : &description "Ph.D. Student at UC Berkeley"
+description              : &description "Research Scientist at Adobe Research"
 url                      : https://taesungp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taesungp/taesungp.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Taesung Park"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student at UC Berkeley. Advised by Alexei Efros"
-  location         : "Berkeley, CA"
+  bio              : "Research Scientist at Adobe Research"
+  location         : "San Francisco, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=hHkuxSUAAAAJ&hl=en"
-  email            : taesung_park@berkeley.edu
+  email            : tapark@adobe.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
