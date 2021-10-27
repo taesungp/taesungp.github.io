@@ -14,6 +14,7 @@ Call for Interns: I am looking for summer interns! If you are interested in doin
 
 Research
 ======
+
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/contrastive_feature_loss.png" alt=""> </figure> | **Contrastive Feature Loss for Image Prediction**<br/>Alex Andonian, **Taesung Park**, Bryan Russell, Phillip Isola, Jun-Yan Zhu, Richard Zhang<br/>ICCVW 2021<br/>
 [paper](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Andonian_Contrastive_Feature_Loss_for_Image_Prediction_ICCVW_2021_paper.pdf)
 | <figure style="width: 120px"> <img src="https://taesung.me/SwappingAutoencoder/index_files/church_style_swaps.gif" alt=""> </figure> | **Swapping Autoencoder for Deep Image Manipulation**<br/>**Taesung Park**, Jun-Yan Zhu, Oliver Wang, Jingwan Lu, Eli Shechtman, Alexei Efros, Richard Zhang<br/>NeurIPS 2020<br/>[project](https://taesung.me/SwappingAutoencoder/) \| [paper](https://arxiv.org/abs/2007.00653) |
@@ -57,4 +58,4 @@ I like to take short trips from campus and shoot photos of the beautiful Califor
 CV
 ======
 
-Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/CV_TaesungPark_20200925.pdf)
+Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/CV_TaesungPark_20210621.pdf)
