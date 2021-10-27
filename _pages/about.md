@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Scientist at Adobe Research, focusing on image editing based on machine learning. I received Ph.D. in Computer Science at UC Berkeley, advised by [Prof. Alexei Efros](https://people.eecs.berkeley.edu/~efros/). Previously I interned at Adobe in 2019, working with [Richard Zhang](https://richzhang.github.io/), and at NVIDIA, working with [Ming-Yu Liu](http://www.mingyuliu.net/) in summer 2018. I received B.S. in Mathematics and M.S. in Computer Science, both at Stanford University. During my Master’s program, I was advised by [Vladlen Koltun](http://vladlen.info/) and [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/). I was funded by Samsung Scholarship for my Ph.D. study, and a recipient of [Adobe Research Fellowship 2020](https://adoberesearch.ctlprojects.com/fellowship/previous-fellowship-award-winners/). 
 
-*Call for Interns***  : I am looking for summer interns! If you are interested in doing a cool ML-based image editing project that may lead to a real Photoshop feature, please send me an email. My project as an intern at Adobe [landed in Photoshop](https://youtu.be/haIZPMBP-40). 
+**Call for Interns**  : I am looking for summer interns! If you are interested in doing a cool ML-based image editing project that may lead to a real Photoshop feature, please send me an email. My project as an intern at Adobe [landed in Photoshop](https://youtu.be/haIZPMBP-40). 
 
 Research
 ======
