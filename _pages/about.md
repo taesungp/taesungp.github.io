@@ -12,7 +12,8 @@ I am a Research Scientist at Adobe Research, focusing on image editing based on 
 
 Software
 ======
-| <figure style="width: 120px"> <img src="https://taesung.me/SwappingAutoencoder/index_files/church_style_swaps.gif" alt=""> </figure> | [**Photoshop Landscape Mixer**](https://www.youtube.com/watch?v=gsE3cLg8imI) transforms landscape images in various ways <br/> Contributes to Adobe's nomination as [World's 4th Most Innovative AI company](https://blog.adobe.com/en/publish/2022/03/08/adobe-named-one-of-worlds-most-innovative-companies-in-ai-by-fast-company) of 2022 |
+
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/landscape-mixer.jpg" alt=""> </figure> | [**Photoshop Landscape Mixer**](https://www.youtube.com/watch?v=gsE3cLg8imI) transforms landscape images in various ways <br/> Contributes to Adobe's nomination as [World's 4th Most Innovative AI company](https://blog.adobe.com/en/publish/2022/03/08/adobe-named-one-of-worlds-most-innovative-companies-in-ai-by-fast-company) of 2022 |
 | <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/spade_thumbnail.jpg" alt=""> </figure> | [**GauGAN**](https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/) turns sketches into photos <br/> [100 Greatest Innovations of 2019 by Popular Science](https://www.popsci.com/story/technology/best-of-whats-new-2019/) |
 
 
